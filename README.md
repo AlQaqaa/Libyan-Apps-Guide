@@ -13,10 +13,10 @@
 
 ## شارك المستودع
 
-+ [المشاركة على تويتر](http://twitter.com/intent/tweet?text=https://github.com/AlQaqaa/Libyan-Apps-Guide/blob/main/README.md)
-+ [المشاركة على فيسبوك](https://www.facebook.com/share.php?u=https://github.com/AlQaqaa/Libyan-Apps-Guide/blob/main/README.md)
-+ [المشاركة على لينكدإن](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/AlQaqaa/Libyan-Apps-Guide/blob/main/README.md)
-+ [المشاركة على تليقرام](https://t.me/share/url?url=https://github.com/AlQaqaa/Libyan-Apps-Guide/blob/main/README.md)
++ [المشاركة على تويتر](http://twitter.com/intent/tweet?text=https://github.com/AlQaqaa/Libyan-Apps-Guide)
++ [المشاركة على فيسبوك](https://www.facebook.com/share.php?u=https://github.com/AlQaqaa/Libyan-Apps-Guide)
++ [المشاركة على لينكدإن](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/AlQaqaa/Libyan-Apps-Guide)
++ [المشاركة على تليقرام](https://t.me/share/url?url=https://github.com/AlQaqaa/Libyan-Apps-Guide)
 
 
 أرجوا منك المشاركة في هذا المستودع من خلال إضافة التطبيقات التي تعرفها.
