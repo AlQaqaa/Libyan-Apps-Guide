@@ -6,3 +6,5 @@
 ### الفهرس
 
 + [التطبيقات الخدمية](Apps/serviceApps.md)
++ [التطبيقات المصرفية والمالية](Apps/bankingApps.md)
+
