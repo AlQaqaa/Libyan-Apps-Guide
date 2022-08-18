@@ -9,6 +9,7 @@
 + [التطبيقات الخدمية](Apps/serviceApps.md)
 + [التطبيقات المصرفية والمالية](Apps/bankingApps.md)
 + [تطبيقات التسوق](Apps/shoppingApps.md)
++ [تطبيقات الإتصالات](Apps/communicationApps.md)
 
 ## شارك المستودع
 
